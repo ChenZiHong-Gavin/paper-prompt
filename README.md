@@ -1,6 +1,6 @@
 # Paper Prompt
 
-> 覆盖学术论文全生命周期的 Prompt 集合（24 个 Prompt，6 个阶段）。
+> 覆盖学术论文全生命周期的 Prompt 集合（25 个 Prompt，6 个阶段）。
 
 ---
 
@@ -36,6 +36,7 @@
 | [Results撰写](4-论文写作/Results撰写.txt) | 实验章节：设置→主结果→消融→深入分析，数据叙事 |
 | [段落扩写](4-论文写作/段落扩写.txt) | 将草稿片段扩写为学术规范段落 |
 | [图表描述](4-论文写作/图表描述.txt) | Figure/Table Caption 规范 + 正文结果描述 |
+| [Discussion撰写](4-论文写作/Discussion撰写.txt) | 解释结果背后的机制、与已有工作对话、意外现象与启示 |
 | [Conclusion撰写](4-论文写作/Conclusion撰写.txt) | 回顾→方法→结果→局限→未来方向 |
 | [Limitations撰写](4-论文写作/Limitations撰写.txt) | 方法/实验/应用/伦理四维度局限 + Broader Impact 声明 |
 
@@ -69,6 +70,7 @@
              (精读     标题优化   Abstract      论文修改   Cover Letter
              关键论文)            Related Work  降重
                                  Results       一致性检查
+                                 Discussion
                                  图表描述
                                  Conclusion
                                  Limitations
@@ -97,6 +99,7 @@
 │   ├── Results撰写.txt
 │   ├── 段落扩写.txt
 │   ├── 图表描述.txt
+│   ├── Discussion撰写.txt
 │   ├── Conclusion撰写.txt
 │   └── Limitations撰写.txt
 ├── 5-翻译与润色/
